@@ -70,4 +70,4 @@ P·A·K·E & K·A·P·E <a href="https://kokoni.co/public">#OmniscientCurrencies
 <br>
 * kokoni.co <em>koko (tout) ni (moi) .co (et d'autres)</em>
 <br><br><br><br>
-<a href="https://kokoni.co/@2020">FRANCÉ</a>
+<a href="https://github.com/ojedavidea/kokoni.co/blob/master/ABOUT.md">GITit</a> | <a href="https://kokoni.co/@2020">FRANCÉ</a>
