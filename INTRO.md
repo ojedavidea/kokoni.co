@@ -6,6 +6,6 @@ Either you are a journalist, a pioneer, a friend, an adventurer, a judge, a phil
 <br><br>
 <a href="https://kokoni.co/public">#OmniscientCurrencies</a> on kokoni.co
 <br><br>
-<a href="https://kokoni.co/@2020">FRANCÉ</a>
+<a href="https://github.com/ojedavidea/kokoni.co/blob/master/INTRO.md">GITit</a> | <a href="https://kokoni.co/@2020">FRANCÉ</a>
 <br><br>
 Deutsch | Español | Français <a href="https://kokoni.co/about/more">...</a>~~leave empty space here~~
